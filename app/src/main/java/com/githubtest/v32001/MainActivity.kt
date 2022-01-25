@@ -24,6 +24,8 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+// Testing my commit to github skills
+
 @Composable
 fun Greeting(name: String) {
     Text(text = "Hello $name!")
